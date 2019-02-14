@@ -1,0 +1,10 @@
+$my-color-1: #bbb999;
+
+$theme-colors:(
+	"my-color-1": $my-color-1
+);
+
+$enable-responsive-font-sizes:                true !important;
+
+// Importar o Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
