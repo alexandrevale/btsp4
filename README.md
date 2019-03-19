@@ -14,4 +14,6 @@ sass --watch src/css/main.scss src/css/main.css
 * [Materialize](https://materializecss.com/)
 	* [Grid](https://materializecss.com/grid.html)
 	* [Colors](https://materializecss.com/color.html)
+	* [Buttons](https://materializecss.com/buttons.html)
+	* [Icons](https://materializecss.com/icons.html)
 * [Sass Basics ](https://sass-lang.com/guide)
